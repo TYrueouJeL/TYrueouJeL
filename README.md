@@ -15,4 +15,4 @@
 - 🤖 [Bot Discord en Python](https://...)
 
 ### 📬 Contact
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?&logo=vercel)](https://portfolio.remiguerin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?&logo=vercel)](https://portfolio.remiguerin.fr)
