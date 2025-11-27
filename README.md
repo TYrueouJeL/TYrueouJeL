@@ -5,12 +5,13 @@
 
 # 👋 Salut, moi c'est Rémi / TY
 
+🎓 Étudiant en informatique passionné par le développement 
 🌐 Développeur **Web Full-Stack**  
 🖥️ Créateur de **logiciels lourds**  
 🎮 Développeur **jeux vidéo**  
 ⚙️ Passionné par le **DevOps**, les architectures propres et les projets ambitieux.
 
-J’adore explorer, apprendre, tester, casser, réparer… bref, créer des choses utiles (ou fun 😄).
+J’adore explorer, apprendre, tester, casser, réparer… bref, créer des choses.
 
 ---
 
@@ -54,28 +55,28 @@ J’adore explorer, apprendre, tester, casser, réparer… bref, créer des chos
 
 ### 📝 **TaskManager**
 Gestionnaire de tâches et de projets.  
-🔹 *TypeScript*  
+🔹 *React* + *Supabase*  
 🔗 Repo : https://github.com/TYrueouJeL/TaskManager
 
 ---
 
 ### 📝 **TaskManager-V2**
 Deuxième version améliorée du TaskManager.  
-🔹 *TypeScript*  
+🔹 *Nuxt* + *Adonis*  
 🔗 Repo : https://github.com/TYrueouJeL/TaskManager-V2
 
 ---
 
 ### 🚗 **Car-Seller-Web**
 Site web pour gérer des ventes de voitures.  
-🔹 *PHP*  
+🔹 *Symfony*  
 🔗 Repo : https://github.com/TYrueouJeL/Car-Seller-Web
 
 ---
 
 ### 💳 **PaySurely-Back**
 Backend d'une plateforme de paiement.  
-🔹 *JavaScript*  
+🔹 *NodeJS*  
 🔗 Repo : https://github.com/TYrueouJeL/PaySurely-Back
 
 ---
@@ -89,7 +90,7 @@ Logiciel desktop permettant aux administrateurs et techniciens de gérer des uni
 
 ### 🌐 **WorkTogether-Web**
 Site web permettant de réserver et gérer des unités dans des baies informatiques.  
-🔹 *PHP*  
+🔹 *Symfony*  
 🔗 Repo : https://github.com/TYrueouJeL/WorkTogether-Web
 
 ---
