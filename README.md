@@ -56,42 +56,42 @@ J’adore explorer, apprendre, tester, casser, réparer… bref, créer des chos
 ### 📝 **TaskManager**
 Gestionnaire de tâches et de projets.  
 🔹 *React* + *Supabase*  
-🔗 Repo : https://github.com/TYrueouJeL/TaskManager
+🔗 Repo : ![TaskManager](https://github.com/TYrueouJeL/TaskManager)
 
 ---
 
 ### 📝 **TaskManager-V2**
 Deuxième version améliorée du TaskManager.  
 🔹 *Nuxt* + *Adonis*  
-🔗 Repo : https://github.com/TYrueouJeL/TaskManager-V2
+🔗 Repo : ![TaskManager-V2](https://github.com/TYrueouJeL/TaskManager-V2)
 
 ---
 
 ### 🚗 **Car-Seller-Web**
 Site web pour gérer des ventes de voitures.  
 🔹 *Symfony*  
-🔗 Repo : https://github.com/TYrueouJeL/Car-Seller-Web
+🔗 Repo : ![CarSeller-Web](https://github.com/TYrueouJeL/Car-Seller-Web)
 
 ---
 
 ### 💳 **PaySurely-Back**
 Backend d'une plateforme de paiement.  
 🔹 *NodeJS*  
-🔗 Repo : https://github.com/TYrueouJeL/PaySurely-Back
+🔗 Repo : ![PaySurely-Back](https://github.com/TYrueouJeL/PaySurely-Back)
 
 ---
 
 ### 🖥️ **Worktogether-Desktop**
 Logiciel desktop permettant aux administrateurs et techniciens de gérer des unités, des interventions et des offres.  
 🔹 *C#*  
-🔗 Repo : https://github.com/TYrueouJeL/Worktogether-Desktop
+🔗 Repo : ![Worktogether-Desktop](https://github.com/TYrueouJeL/Worktogether-Desktop)
 
 ---
 
 ### 🌐 **WorkTogether-Web**
 Site web permettant de réserver et gérer des unités dans des baies informatiques.  
 🔹 *Symfony*  
-🔗 Repo : https://github.com/TYrueouJeL/WorkTogether-Web
+🔗 Repo : ![Worktogether-Web](https://github.com/TYrueouJeL/WorkTogether-Web)
 
 ---
 
