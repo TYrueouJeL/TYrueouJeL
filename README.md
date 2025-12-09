@@ -51,50 +51,6 @@ J’adore explorer, apprendre, tester, casser, réparer… bref, créer des chos
 
 ---
 
-## 🚀 Projets mis en avant
-
-### 📝 **TaskManager**
-Gestionnaire de tâches et de projets.  
-🔹 *React* + *Supabase*  
-🔗 Repo : ![TaskManager](https://github.com/TYrueouJeL/TaskManager)
-
----
-
-### 📝 **TaskManager-V2**
-Deuxième version améliorée du TaskManager.  
-🔹 *Nuxt* + *Adonis*  
-🔗 Repo : ![TaskManager-V2](https://github.com/TYrueouJeL/TaskManager-V2)
-
----
-
-### 🚗 **Car-Seller-Web**
-Site web pour gérer des ventes de voitures.  
-🔹 *Symfony*  
-🔗 Repo : ![CarSeller-Web](https://github.com/TYrueouJeL/Car-Seller-Web)
-
----
-
-### 💳 **PaySurely-Back**
-Backend d'une plateforme de paiement.  
-🔹 *NodeJS*  
-🔗 Repo : ![PaySurely-Back](https://github.com/TYrueouJeL/PaySurely-Back)
-
----
-
-### 🖥️ **Worktogether-Desktop**
-Logiciel desktop permettant aux administrateurs et techniciens de gérer des unités, des interventions et des offres.  
-🔹 *C#*  
-🔗 Repo : ![Worktogether-Desktop](https://github.com/TYrueouJeL/Worktogether-Desktop)
-
----
-
-### 🌐 **WorkTogether-Web**
-Site web permettant de réserver et gérer des unités dans des baies informatiques.  
-🔹 *Symfony*  
-🔗 Repo : ![Worktogether-Web](https://github.com/TYrueouJeL/WorkTogether-Web)
-
----
-
 ## 📬 Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-TYrueouJeL-000?logo=github)](https://github.com/TYrueouJeL)  
