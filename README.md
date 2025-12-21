@@ -6,6 +6,7 @@
 # 👋 Salut, moi c'est Rémi / TY
 
 🎓 Étudiant en informatique passionné par le développement 
+
 🌐 Développeur **Web Full-Stack**  
 🖥️ Créateur de **logiciels lourds**  
 🎮 Développeur **jeux vidéo**  
