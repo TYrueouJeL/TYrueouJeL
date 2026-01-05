@@ -10,7 +10,7 @@
 🌐 Développeur **Web Full-Stack**  
 🖥️ Créateur de **logiciels lourds**  
 🎮 Développeur **jeux vidéo**  
-⚙️ Passionné par le **DevOps**, les architectures propres et les projets ambitieux.
+⚙️ Intéressé par le **DevOps**, les architectures propres et les projets ambitieux.
 
 J’adore explorer, apprendre, tester, casser, réparer… bref, créer des choses.
 
